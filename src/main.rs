@@ -3,5 +3,5 @@ fn divByOne(a: u32) -> u32 {
 }
 
 fn main() {
-    println!("grate answer: {}", divByOne(42));
+    println!("grate answer: {}", divvByOne(42));
 }
